@@ -6,9 +6,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=D9BED1&width=435&lines=Hello%2C+it's+Aditya+Ashok+Pise;Machine+Learning+Enthusiast" alt="Business Analyst"/>
 </a>
 
-<!--
-    Your own Terminal GIF can be created here -> https://www.terminalgif.com
--->
+<a href="https://adityapise.vercel.app/" download>Check out my Portfolio</a>
 
 <div>
     <img src="./assets/ML.gif" alt="About Me Terminal GIF"/>
@@ -75,6 +73,7 @@ Check out my latest post 👇<br>
         <img src="https://github.com/user-attachments/assets/33da1818-a750-4e4b-a09a-9c8b1c4e9338" alt="Medium" width="35" height="35"/>
     </a>
 </div>
+
 
 
 ### Employer?
