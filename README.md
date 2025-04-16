@@ -26,10 +26,10 @@ I’m driven by a love for solving problems! With a technical background, I’ve
 -->
 
 ### Main skills
-[![My Skills](https://skillicons.dev/icons?i=py,regex,github,git,mongodb,mysql,eclipse,java,spring,js,nodejs,react,express,jest,jenkins,cpp,cs,dotnet,html,css,bootstrap,pug,php,androidstudio,blender,ps,notion)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,mongodb,mysql,github,git,java,eclipse,nodejs,react,c,cpp,html,css)](https://skillicons.dev)
 
 ### Studying
-[![Learning](https://skillicons.dev/icons?i=aws,azure,ruby)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=azure,aws)](https://skillicons.dev)
 
 <!--
      I also have my own blog with useful information, check it out ^^
@@ -59,7 +59,7 @@ Check out my latest post 👇<br>
 
 ### Connect with me!
 <div>
-    <a href="https://www.linkedin.com/in/daria-stanilevici/">
+    <a href="https://www.linkedin.com/in/adipise05/">
         <img src="https://github.com/user-attachments/assets/880aaea6-79b9-4058-b9b4-342391ca04ea" alt="LinkedIn" width="35" height="35"/>
     </a>
     <a href="https://dev.to/daria-stanilevici">
